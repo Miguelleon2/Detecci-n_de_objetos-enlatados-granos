@@ -1,0 +1,19 @@
+Este trabajo presenta la implementación
+de un modelo de detección de objetos
+utilizando la arquitectura YOLOv8 sobre
+un dataset personalizado de enlatados y granos. El
+proyecto tiene como objetivo desarrollar
+una solución que permita identificar de
+manera eficiente objetos en imágenes
+pertenecientes a dos clases. El
+dataset fue preparado y anotado
+utilizando la plataforma Roboflow, y el
+modelo fue entrenado y validado en un
+entorno de Google Colab. Se analizaron
+las métricas de precisión, recall, y mAP
+para evaluar el rendimiento del modelo,
+obteniendo una precisión del 99.5% y un
+mAP@50-95 del 98.3%. Los resultados
+demuestran que YOLOv8 es altamente
+efectivo para la tarea de detección de
+objetos en imágenes con una clase única
